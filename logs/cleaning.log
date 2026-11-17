@@ -1,0 +1,13 @@
+2026-11-17 15:13:57,999 - INFO - Original records: 1010
+2026-11-17 15:13:58,327 - INFO - Cleaned records: 997
+2026-11-17 15:13:58,328 - INFO - Cleaning completed successfully
+2026-11-17 15:14:46,424 - INFO - Original records: 1010
+2026-11-17 15:14:46,776 - INFO - Cleaned records: 997
+2026-11-17 15:14:46,776 - INFO - Cleaning completed successfully
+2026-11-17 15:14:47,901 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-17 15:14:47,907 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-17 15:15:39,947 - INFO - Original records: 1010
+2026-11-17 15:15:40,289 - INFO - Cleaned records: 997
+2026-11-17 15:15:40,289 - INFO - Cleaning completed successfully
+2026-11-17 15:15:41,300 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-11-17 15:15:41,306 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
